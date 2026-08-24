@@ -1,14 +1,12 @@
 # Hotel-Business-Diagnostics-AtliQ-Grands
 Designed a Power BI hotel revenue dashboard analyzing 3 months of data across 7+ AtliQ Grands properties in Bangalore, Mumbai, Hyderabad and Delhi. Evaluated ₹169 Cr revenue, 132K+ bookings, RevPAR, ADR, occupancy and platform performance to identify market-share gaps and support revenue recovery through actionable insights.
+
 🏨 AtliQ Grands — Hospitality Revenue Analytics Dashboard
 📌 Project Overview
-
 An interactive Power BI Hospitality Revenue Analytics Dashboard built to analyze hotel performance across 7+ AtliQ Grands properties in Bangalore, Mumbai, Hyderabad, and Delhi.
-
 The dashboard analyzes 3 months of booking and revenue data, covering approximately ₹169 Crore in revenue and 132K+ bookings, to identify performance gaps, understand booking-platform behavior, and provide actionable insights for revenue optimization.
 
 🎯 Business Problem
-
 AtliQ Grands was experiencing challenges related to declining market share and revenue performance in a competitive hospitality market.
 
 The objective of this project was to:
@@ -20,8 +18,8 @@ Compare key hospitality KPIs
 Identify properties and segments requiring attention
 Track week-over-week performance
 Generate actionable insights to support revenue recovery
-📊 Key Business Metrics
 
+📊 Key Business Metrics
 The dashboard tracks major hospitality KPIs including:
 
 KPI	Description
@@ -36,20 +34,17 @@ DURN	Daily Utilized Room Nights
 Cancellation %	Percentage of bookings cancelled
 Average Rating	Customer/property rating
 WoW Change %	Week-over-week KPI movement
+
 🌍 Geographic Coverage
-
 The analysis covers AtliQ Grands properties across:
-
-Bangalore
-Mumbai
-Hyderabad
-Delhi
-
+1) Bangalore
+2) Mumbai
+3) Hyderabad
+4) Delhi
 The dashboard allows users to dynamically filter performance by city, room class, month, and week.
 
 📈 Dashboard Features
 KPI Overview
-
 The main dashboard provides an at-a-glance view of:
 
 Total Revenue
@@ -61,7 +56,6 @@ Week-over-week changes
 Property-Level Analysis
 
 Performance can be evaluated across individual hotel properties using metrics such as:
-
 Revenue
 RevPAR
 Occupancy
@@ -72,29 +66,22 @@ Average Rating
 Booking Platform Analysis
 
 The dashboard evaluates revenue and realization performance across booking channels, helping identify high-performing platforms and opportunities for optimization.
-
 A 69.9% realization rate was observed across the top-performing booking channels.
 
-Trend & Performance Analysis
-
+📈Trend & Performance Analysis
 Week-over-week indicators help identify whether important KPIs are:
-
 Improving
 Declining
 Remaining stable
-
 This enables management to quickly identify performance changes requiring attention.
 
-Interactive Filtering
-
+👉Interactive Filtering
 Users can dynamically filter the dashboard by:
 
 City
 Room Class
 Month
 Week
-
-This enables granular exploration of hotel and revenue performance.
 
 🔍 Key Insights
 
@@ -108,8 +95,8 @@ The top-performing channels achieved approximately 69.9% realization.
 RevPAR, ADR and occupancy provided useful indicators for identifying property-level performance gaps.
 Week-over-week analysis highlighted changes in revenue, RevPAR, DSRN and occupancy.
 The analysis identified opportunities to improve revenue and market-share performance through better channel and property-level decision-making.
-💡 Business Recommendations
 
+💡 Business Recommendations
 Based on the analysis, the following actions can help improve performance:
 
 Optimize high-potential booking channels based on realization and revenue contribution.
@@ -119,16 +106,17 @@ Monitor ADR and RevPAR together to balance room pricing with occupancy.
 Track cancellation and realization rates to identify revenue leakage.
 Use weekly KPI monitoring to detect declining performance early.
 Prioritize city/property-level strategies instead of applying a single strategy across the entire portfolio.
+
 🛠️ Tools & Technologies
 Power BI
 Power Query
-DAX
-Data Modeling
+DAX functions
+Data Modelling
 Data Visualization
 Business Intelligence
 Hospitality Revenue Analytics
-🧹 Data Preparation
 
+🧹 Data Preparation
 The project involved preparing and structuring hospitality booking data for analysis within Power BI.
 
 Key activities included:
@@ -141,8 +129,8 @@ Creating KPI calculations
 Preparing data for interactive filtering
 Building performance comparison measures
 Creating Week-over-Week performance indicators
-🧮 DAX & Analytical Measures
 
+🧮 DAX & Analytical Measures
 Custom measures were used to calculate and monitor important hospitality metrics such as:
 
 Revenue
